@@ -1,2 +1,3 @@
 # etbood
-etbood
+etbood 通用
+
